@@ -25,6 +25,10 @@ if __name__=="__main__":
 		if count == 8:
 			count = 0
 
+	#Wow this could use some fixing
+	with open("proxy.csv", 'w') as CSV:
+		pass
+
 	with open("proxy.csv", 'r') as CSV:
 		allText = CSV.read()
 	
