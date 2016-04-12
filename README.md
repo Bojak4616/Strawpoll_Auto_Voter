@@ -1,7 +1,5 @@
 # Strawpoll_Auto_Votes
 <strong>Disclaimer: Using random proxies will result in malicious traffic coming to your box. Use at your own risk</strong>
-
-This is not optimized to be user friendly. Those changes will be added when I have time...
 <br></br>
 <strong>Step 1</strong>
 
@@ -23,10 +21,8 @@ Run strawpoll.py and you will be prompted for the pollId and then the vote you w
 <strong>Step 3</strong>
 
 Profit
-
 <br></br>
 TODO: 
 
 Clean up proxy-list.py and have it precheck if a proxy will return a 200 status code
-
 Add selecting multiple options on one vote, if enabled by poll creator.
