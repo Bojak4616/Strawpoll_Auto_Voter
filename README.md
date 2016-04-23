@@ -1,4 +1,8 @@
 # Strawpoll_Auto_Votes
+<strong>NOTE!!! :( </strong>)
+<strong>STRAWPOLL CHANGED THEIR SITE. THIS CODE NO LONGER WORKS R.I.P</strong>
+
+
 <strong>Disclaimer: Using random proxies will result in malicious traffic coming to your box. Use at your own risk</strong>
 <br></br>
 <strong>Step 1</strong>
